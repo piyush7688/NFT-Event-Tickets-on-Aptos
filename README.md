@@ -1,4 +1,4 @@
-# NFT-Event-Tickets-on-Apto
+
 NFT Event Tickets - Move Smart Contract
 Table of Contents
 Project Title
