@@ -1,30 +1,30 @@
 
-NFT Event Tickets - Move Smart Contract
+##NFT Event Tickets - Move Smart Contract
 Table of Contents
 Project Title
 Project Description
 Project Vision
 Future Scope
 Key Features
-Project Title
+##Project Title
 NFT Event Tickets - Blockchain-Powered Ticketing System
 
-Project Description
+##Project Description
 The NFT Event Tickets smart contract is a decentralized application built on the Aptos blockchain using the Move programming language. This smart contract allows users to mint and transfer event tickets as non-fungible tokens (NFTs). By leveraging blockchain technology, this system ensures security, transparency, and authenticity in event ticketing, reducing fraud and unauthorized reselling.
 
-Project Vision
+##Project Vision
 The goal of this project is to revolutionize event ticketing by eliminating fraud and unauthorized duplication. By turning tickets into NFTs, event organizers and attendees can benefit from:
 
 Immutable ownership records stored on the blockchain.
 Secure transactions between buyers and sellers.
 Elimination of counterfeit tickets through verifiable blockchain entries.
-Future Scope
+##Future Scope
 Ticket Resale Marketplace: Enable a secondary market where users can safely resell their NFT tickets.
 Smart Ticket Validation: Implement QR-based or blockchain-based verification at event entry points.
 Dynamic Pricing: Introduce a demand-based pricing mechanism for ticket sales.
 Event Attendance Tracking: Use blockchain to verify event participation.
 Multi-Tier Ticketing System: Support different ticket categories like VIP, Standard, and Early Bird.
-Key Features
+##Key Features
 Mint NFT Tickets: Users can create unique NFT tickets associated with an event and a price.
 Secure Ownership: Each ticket is tied to an owner’s blockchain address.
 Transfer Tickets: Owners can transfer tickets securely to another blockchain address.
